@@ -1,4 +1,4 @@
-package com.zjpl.community.Controllers;
+package com.zjpl.community.controllers;
 
 
 import org.springframework.stereotype.Controller;
